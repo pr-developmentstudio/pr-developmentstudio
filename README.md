@@ -36,16 +36,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr-developmentstudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-developmentstudio&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pr-developmentstudio&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=pr-developmentstudio&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-developmentstudio&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Difamados" alt="Top Languages" height="165" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pr-developmentstudio&layout=compact&hide_border=true&exclude_repo=Difamados&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-developmentstudio&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-developmentstudio&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
