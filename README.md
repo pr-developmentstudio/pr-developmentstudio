@@ -1,13 +1,13 @@
 # Hola, soy Seba 👋
 
-**Ingeniero civil** apasionado por la programación y la innovación · **Software Engineer (Web/Apps)** · PR Development Studio
+**Ingeniero Civil** apasionado por la programación y la innovación · **Software Engineer (Web/Apps)** · PR Development Studio
 
 ---
 
 ## 🚀 Qué hago
 
 - Construyo productos web y apps con **React + TypeScript**
-- Desarrollo experiencias e interfaces (incl. FiveM NUI / Lua)
+- Desarrollo experiencias e interfaces innovadoras
 - Combino ingeniería e innovación en proyectos reales
 - Abierto a colaborar y crear cosas nuevas
 
