@@ -1,6 +1,6 @@
 # Hola, soy Seba 👋
 
-**Ingeniero Civil** apasionado por la programación y la innovación · **Software Engineer (Web/Apps)** · PR Development Studio
+**Ingeniero Civil** apasionado por la programación y la innovación · **Software Engineer** · PR Development Studio
 
 ---
 
